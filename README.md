@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ioanna 👋
 
-<!--
-**ioThio/ioThio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress & WooCommerce Developer based in Athens, Greece, with a background in Physics.
 
-Here are some ideas to get you started:
+I run **ISTOS** and work as a **Codeable Certified Expert**, building, maintaining, and improving websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- WordPress & WooCommerce development
+- Responsive layouts and HTML/CSS customization
+- Multilingual websites
+- Troubleshooting, maintenance, and migrations
+- Technical SEO and performance optimization
+
+## Selected projects
+
+- [ISTOS](https://istos.art) — My web design and development practice.
+- [h-bar](https://www.h-bar.gr) — A bilingual science and philosophy publication.
+- [Fortunebaboon](https://fortunebaboon.com) — A creative publishing website.
+
+Across these projects, I work on website development, design, maintenance, and content presentation. All published text is under my editorial oversight.
+
+## Currently learning
+
+Expanding my skills in REST APIs, React, WordPress custom blocks, and Laravel.
+
+## Find me
+
+[Portfolio](https://istos.art) · [Codeable](https://www.codeable.io/developers/ioanna-theofilakou/)
